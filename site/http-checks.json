@@ -1,0 +1,82 @@
+[
+  {
+    "route": "/",
+    "status": 200,
+    "bytes": 19858
+  },
+  {
+    "route": "/about/",
+    "status": 200,
+    "bytes": 8085
+  },
+  {
+    "route": "/resume/",
+    "status": 200,
+    "bytes": 6178
+  },
+  {
+    "route": "/work/levis/",
+    "status": 200,
+    "bytes": 11237
+  },
+  {
+    "route": "/work/plant-stall/",
+    "status": 200,
+    "bytes": 10796
+  },
+  {
+    "route": "/work/photomax/",
+    "status": 200,
+    "bytes": 12683
+  },
+  {
+    "route": "/work/creativepro/",
+    "status": 200,
+    "bytes": 9812
+  },
+  {
+    "route": "/work/mellana/",
+    "status": 200,
+    "bytes": 9176
+  },
+  {
+    "route": "/work/prebook/",
+    "status": 200,
+    "bytes": 8363
+  },
+  {
+    "route": "/site.css",
+    "status": 200,
+    "bytes": 38636
+  },
+  {
+    "route": "/cinematic.css",
+    "status": 200,
+    "bytes": 30823
+  },
+  {
+    "route": "/inner-pages.css",
+    "status": 200,
+    "bytes": 16101
+  },
+  {
+    "route": "/site.js",
+    "status": 200,
+    "bytes": 5206
+  },
+  {
+    "route": "/motion.js",
+    "status": 200,
+    "bytes": 11798
+  },
+  {
+    "route": "/echo.js",
+    "status": 200,
+    "bytes": 8033
+  },
+  {
+    "route": "/assets/Karthik_Vempati_Resume.docx",
+    "status": 200,
+    "bytes": 39149
+  }
+]

@@ -1,0 +1,110 @@
+/* Inner portfolio pages: editorial scale, framed artwork, and clear reading rhythm. */
+body[data-page=work] .case-intro{padding-top:35px;padding-bottom:20px}
+body[data-page=work] .back-link{font:10px var(--mono);text-transform:uppercase;margin-bottom:48px;letter-spacing:.04em}
+body[data-page=work] .case-intro>.section-label{border-top:1px solid var(--line);padding-top:25px;margin-bottom:23px;font-size:10px;color:var(--accent)}
+body[data-page=work] .case-intro h1{font-size:clamp(66px,9.8vw,154px);font-weight:800;text-transform:uppercase;line-height:.94;letter-spacing:-.07em;overflow-wrap:normal}
+body[data-page=work] .case-dot{width:11px;height:11px;margin-left:15px;vertical-align:baseline}
+body[data-page=work] .case-tagline{font-size:clamp(24px,3.2vw,46px);line-height:1.13;max-width:950px;margin-top:26px;letter-spacing:-.045em}
+body[data-page=work] .case-summary{margin:38px 0 20px;gap:80px;grid-template-columns:1.2fr 1fr;border-top:1px solid var(--line);padding-top:25px}
+body[data-page=work] .case-summary>p{font-size:15px;line-height:1.85;max-width:620px}
+body[data-page=work] .case-summary dl{grid-template-columns:1fr 1.6fr}
+body[data-page=work] .case-summary dt{color:var(--accent);font-size:9px}
+body[data-page=work] .case-summary dd{font-size:11px;line-height:1.8}
+body[data-page=work] .case-cover{width:calc(100% - 32px);max-width:1600px;border-radius:3px;background:#d0d3c7;padding:30px;margin-top:10px}
+body[data-page=work] .case-cover img{max-height:700px;object-fit:contain;box-shadow:0 20px 45px #17181516}
+body[data-page=work] .case-nav{top:76px;margin-top:0;border:0;background:#20251ff5;color:#f1efe7;backdrop-filter:blur(16px)}
+body[data-page=work] .case-nav>.container{padding-block:17px;gap:20px}
+body[data-page=work] .case-nav a{font-size:10px;color:#c0c6b8;border-bottom:1px solid transparent;line-height:1.7}
+body[data-page=work] .case-nav a:hover,body[data-page=work] .case-nav a.active{color:#d1e59b;border-color:#d1e59b}
+body[data-page=work] .case-section{padding:95px 0;grid-template-columns:.45fr 1.55fr;gap:70px;scroll-margin-top:74px}
+body[data-page=work] .case-section>.section-label{padding-top:5px;font-size:10px}
+body[data-page=work] .case-section h2{font-size:clamp(38px,4.6vw,66px);line-height:1.02;max-width:850px;margin-bottom:30px}
+body[data-page=work] .large-copy{font-size:clamp(18px,1.8vw,24px);line-height:1.7;max-width:850px}
+body[data-page=work] .challenge{background:#d1d6c4;border:0;border-top:2px solid #74804f;padding:30px 34px;margin-top:38px}
+body[data-page=work] .challenge h3{font-size:23px;margin-bottom:15px}
+body[data-page=work] .challenge p{font-size:15px;line-height:1.85;color:#4c5546}
+body[data-page=work] .decision-list{margin-top:40px}
+body[data-page=work] .decision-list article{padding:32px 0;gap:30px}
+body[data-page=work] .decision-list article>span{font-size:11px;color:var(--accent)}
+body[data-page=work] .decision-list h3{font-size:29px;margin-bottom:17px;line-height:1.15}
+body[data-page=work] .decision-list p{font-size:15px;line-height:1.85;max-width:750px}
+body[data-page=work] .design-section{padding:90px 0;scroll-margin-top:74px}
+body[data-page=work] .design-section .section-title{padding-bottom:35px;border-bottom:1px solid var(--line);margin-bottom:40px}
+body[data-page=work] .design-section h2{font-size:clamp(42px,5.8vw,82px);line-height:.98}
+body[data-page=work] .design-section .section-title>p{font-size:12px}
+body[data-page=work] .case-gallery{gap:40px 24px}
+body[data-page=work] .zoom-image{border-radius:2px;background:#d0d3c7}
+body[data-page=work] .gallery-item.phone .zoom-image{background:#d0d3c7;padding:25px;min-height:380px}
+body[data-page=work] .gallery-item.phone img{max-height:520px;filter:drop-shadow(0 14px 14px #20251f20)}
+body[data-page=work] .gallery-item figcaption{font:11px/1.8 var(--sans);padding-top:15px;color:#656c5e}
+body[data-page=work] .video-figure video{border-radius:2px;box-shadow:0 14px 40px #17181520}
+body[data-page=work] .video-figure figcaption{font-size:11px;line-height:1.7}
+body[data-page=work] .reflection{background:#20251f;box-shadow:0 0 0 100vmax #20251f;clip-path:inset(0 -100vmax);color:var(--paper);border:0}
+body[data-page=work] .reflection .section-label{color:#c1c9b5}
+body[data-page=work] .reflection .large-copy{color:#d8ddce;font-size:21px;line-height:1.8}
+body[data-page=work] .reflection h2{color:#e7eccf}
+body[data-page=work] .reflection .tags span{border-color:#626d56;color:#d8ddce;font-size:10px}
+body[data-page=work] .credit{color:#bfc7b3;line-height:1.8}
+body[data-page=work] .next-project{background:#722d43;color:#f1efe7;padding:65px 0 75px;overflow:hidden}
+body[data-page=work] .next-project .section-label{color:#e5bcc9;font-size:10px}
+body[data-page=work] .next-project h2{font-size:clamp(42px,7.7vw,112px);font-weight:800;text-transform:uppercase;line-height:1;letter-spacing:-.06em}
+body[data-page=work] .next-project>.container>.arrow{width:70px;height:70px;flex-shrink:0}
+/* About: photographic introduction and a sharply ordered career timeline. */
+body[data-page=about] .about-hero{padding-top:60px;padding-bottom:75px}
+body[data-page=about] .about-hero>.section-label{color:var(--accent)}
+body[data-page=about] .about-hero>h1{font-size:clamp(56px,7.5vw,114px);text-transform:uppercase;line-height:.96;letter-spacing:-.065em;max-width:1200px}
+body[data-page=about] .about-hero>h1 em{color:var(--accent)}
+body[data-page=about] .about-layout{grid-template-columns:1fr 1fr;gap:75px;margin-top:60px;align-items:center}
+body[data-page=about] .about-photo{width:100%;background:#d0d3c7;padding:12px;rotate:-2deg;box-shadow:0 15px 35px #17181514}
+body[data-page=about] .about-photo img{width:100%;height:580px;object-fit:cover;object-position:48% 54%;border-radius:0;filter:saturate(.8)}
+body[data-page=about] .about-photo figcaption{font-size:9px;padding:14px 3px 5px}
+body[data-page=about] .about-story h2{font-size:clamp(36px,3.7vw,55px);line-height:1.02;margin-bottom:27px}
+body[data-page=about] .about-story .large-copy{font-size:21px;line-height:1.7;color:var(--ink)}
+body[data-page=about] .about-story p{font-size:15px;line-height:1.85}
+body[data-page=about] .experience-section{padding:90px 0;background:#20251f;box-shadow:0 0 0 100vmax #20251f;clip-path:inset(0 -100vmax);color:#edf0e4}
+body[data-page=about] .experience-section .section-label,body[data-page=about] .experience-section .section-title>p{color:#bfc7b3}
+body[data-page=about] .experience-section h2{font-size:clamp(43px,5.7vw,82px);line-height:.98}
+body[data-page=about] .experience-list{margin-top:50px}
+body[data-page=about] .experience-row{grid-template-columns:.5fr 1.5fr;gap:55px;border-color:#525e49;padding:34px 0}
+body[data-page=about] .experience-date{color:#c9d7ae;font-size:10px}
+body[data-page=about] .experience-row h3{font-size:clamp(27px,3vw,43px);line-height:1.1}
+body[data-page=about] .experience-row .role-name{color:#d6deca;font-size:14px;line-height:1.8}
+body[data-page=about] .experience-row .role-name span{color:#adb9a0}
+body[data-page=about] .experience-row p:not(.role-name):not(.experience-date){color:#adb9a0;font-size:14px;line-height:1.9}
+body[data-page=about] .education-section{background:#d0d3c7;padding:85px 0}
+body[data-page=about] .education-grid{gap:80px;grid-template-columns:1fr 1fr}
+body[data-page=about] .education-grid h2{font-size:clamp(39px,4vw,60px);line-height:1.03}
+body[data-page=about] .education-grid article+article{border-color:#adb5a1}
+body[data-page=about] .education-grid h3{font-size:26px;line-height:1.15}
+body[data-page=about] .education-grid p{font-size:13px;line-height:1.7}
+body[data-page=about] .tool-section{padding-block:70px 85px}
+body[data-page=about] .tool-list>span{font-weight:700;font-size:clamp(24px,3vw,43px);border-bottom-color:#adb5a1;color:var(--accent)}
+/* Resume: useful information with the same visual identity. */
+body[data-page=resume] .resume-page{padding-top:55px;padding-bottom:90px}
+body[data-page=resume] .resume-title{padding-bottom:40px;border-bottom:1px solid var(--line);margin-bottom:50px;align-items:end}
+body[data-page=resume] .resume-title h1{font-size:clamp(65px,9vw,130px);text-transform:uppercase;line-height:.95;letter-spacing:-.07em}
+body[data-page=resume] .resume-title h1 em{color:var(--accent)}
+body[data-page=resume] .resume-title .button{min-width:178px;font-size:11px}
+body[data-page=resume] .resume-layout{grid-template-columns:290px 1fr;gap:70px}
+body[data-page=resume] .resume-layout aside{border:0;padding:27px;background:#20251f;color:#edf0e4;align-self:start;position:sticky;top:106px}
+body[data-page=resume] .resume-layout aside h2{font-size:28px;line-height:1.1}
+body[data-page=resume] .resume-layout aside p,body[data-page=resume] .resume-layout aside a{color:#c3ceb6;font-size:12px;line-height:1.8}
+body[data-page=resume] .resume-layout aside a:hover{color:#d9ef96}
+body[data-page=resume] .resume-layout aside h3{font-size:21px;border-top:1px solid #525e49;padding-top:25px;margin-top:28px}
+body[data-page=resume] .resume-layout aside li{color:#c3ceb6;font-size:12px;line-height:1.8}
+body[data-page=resume] .resume-layout>.large-copy,body[data-page=resume] .resume-layout>div>.large-copy{font-size:24px;line-height:1.65}
+body[data-page=resume] .resume-section-heading{font-size:34px;margin:50px 0 28px}
+body[data-page=resume] .experience-row{padding-block:28px;border-color:var(--line)}
+body[data-page=resume] .experience-date{font-size:10px;color:var(--accent)}
+body[data-page=resume] .experience-row h3{font-size:29px;line-height:1.1}
+body[data-page=resume] .experience-row .role-name{font-size:13px;line-height:1.8}
+body[data-page=resume] .experience-row p:not(.role-name):not(.experience-date){font-size:14px;line-height:1.85}
+body[data-page=resume] .resume-education{border-top:1px solid var(--line)}
+body[data-page=resume] .resume-education h3{font-size:23px;line-height:1.2}
+body[data-page=resume] .resume-education p{font-size:13px;line-height:1.8}
+@media(max-width:1000px){body[data-page=work] .case-summary{gap:35px}body[data-page=work] .case-section{gap:35px;grid-template-columns:.4fr 1.6fr}body[data-page=about] .about-layout{gap:45px}body[data-page=about] .about-photo img{height:510px}body[data-page=about] .about-story .large-copy{font-size:18px}body[data-page=about] .about-story p{font-size:14px}body[data-page=resume] .resume-layout{gap:40px;grid-template-columns:240px 1fr}body[data-page=resume] .resume-layout aside{padding:23px}body[data-page=resume] .resume-layout>div>.large-copy{font-size:21px}}
+@media(max-width:800px){body[data-page=work] .case-summary{grid-template-columns:1fr;gap:25px}body[data-page=work] .case-summary dl{grid-template-columns:1fr 1fr}body[data-page=work] .case-section{grid-template-columns:1fr;gap:14px;padding-block:65px}body[data-page=work] .design-section{padding-block:65px}body[data-page=work] .case-cover{padding:20px}body[data-page=work] .gallery-item.phone .zoom-image{min-height:310px;padding:18px}body[data-page=about] .about-layout{gap:32px}body[data-page=about] .about-photo img{height:465px}body[data-page=about] .education-grid{gap:35px}body[data-page=resume] .resume-layout{grid-template-columns:1fr;gap:40px}body[data-page=resume] .resume-layout aside{position:static;display:block;padding:30px;max-width:none}body[data-page=resume] .resume-layout aside ul{columns:2;column-gap:35px}body[data-page=resume] .resume-title{gap:20px}body[data-page=resume] .resume-title h1{font-size:64px}}
+@media(max-width:600px){body[data-page=work] .case-intro{padding-top:27px}body[data-page=work] .back-link{font-size:9px;margin-bottom:32px}body[data-page=work] .case-intro>.section-label{font-size:8px;line-height:1.8;padding-top:21px}body[data-page=work] .case-intro h1{font-size:clamp(45px,11.5vw,68px);line-height:1;letter-spacing:-.06em}body[data-page=work] .case-dot{width:7px;height:7px;margin-left:8px}body[data-page=work] .case-tagline{font-size:26px;line-height:1.16;margin-top:22px}body[data-page=work] .case-summary{margin-top:27px;padding-top:22px}body[data-page=work] .case-summary>p{font-size:14px;line-height:1.8}body[data-page=work] .case-summary dt{font-size:8px}body[data-page=work] .case-summary dd{font-size:10px}body[data-page=work] .case-cover{width:100%;padding:14px;margin-top:0;border-radius:0}body[data-page=work] .case-nav{top:64px}body[data-page=work] .case-nav>.container{width:calc(100% - 32px);gap:17px;padding-block:13px;overflow-x:auto}body[data-page=work] .case-nav a{font-size:8px}body[data-page=work] .case-section{padding-block:55px;scroll-margin-top:55px}body[data-page=work] .case-section>.section-label{font-size:9px}body[data-page=work] .case-section h2{font-size:38px;line-height:1.04}body[data-page=work] .large-copy{font-size:18px;line-height:1.75}body[data-page=work] .challenge{padding:25px 23px;margin-top:30px}body[data-page=work] .challenge p{font-size:14px}body[data-page=work] .decision-list article{gap:18px;padding:27px 0}body[data-page=work] .decision-list h3{font-size:27px}body[data-page=work] .decision-list p{font-size:14px}body[data-page=work] .design-section{padding-block:55px;scroll-margin-top:55px}body[data-page=work] .design-section h2{font-size:45px}body[data-page=work] .design-section .section-title{margin-bottom:30px;padding-bottom:28px}body[data-page=work] .case-gallery{gap:27px 14px}body[data-page=work] .gallery-item.phone{grid-column:span 6}body[data-page=work] .gallery-item.phone .zoom-image{min-height:240px;padding:12px}body[data-page=work] .gallery-item figcaption{font-size:10px}body[data-page=work] .reflection .large-copy{font-size:18px;line-height:1.8}body[data-page=work] .next-project{padding-block:48px 55px}body[data-page=work] .next-project h2{font-size:clamp(32px,9vw,52px);max-width:250px}body[data-page=work] .next-project>.container>.arrow{width:38px;height:38px}body[data-page=work] .next-project .section-label{font-size:8px}body[data-page=about] .about-hero{padding-top:40px;padding-bottom:55px}body[data-page=about] .about-hero>h1{font-size:clamp(40px,10vw,60px);line-height:1.02}body[data-page=about] .about-layout{grid-template-columns:1fr;gap:40px;margin-top:40px}body[data-page=about] .about-photo{width:96%;justify-self:center;padding:8px}body[data-page=about] .about-photo img{height:450px;max-height:none;object-position:48% 54%}body[data-page=about] .about-story h2{font-size:40px}body[data-page=about] .about-story .large-copy{font-size:20px}body[data-page=about] .about-story p{font-size:15px}body[data-page=about] .experience-section{padding-block:60px}body[data-page=about] .experience-section h2{font-size:42px}body[data-page=about] .experience-row{display:block;padding-block:28px}body[data-page=about] .experience-date{font-size:9px}body[data-page=about] .experience-row h3{font-size:30px}body[data-page=about] .experience-row .role-name{font-size:12px}body[data-page=about] .experience-row p:not(.role-name):not(.experience-date){font-size:13px}body[data-page=about] .education-section{padding-block:60px}body[data-page=about] .education-grid{grid-template-columns:1fr;gap:35px}body[data-page=about] .education-grid h2{font-size:40px}body[data-page=about] .education-grid h3{font-size:25px}body[data-page=about] .tool-section{padding-block:55px 65px}body[data-page=about] .tool-list>span{font-size:28px}body[data-page=resume] .resume-page{padding-top:40px;padding-bottom:65px}body[data-page=resume] .resume-title{display:block;padding-bottom:30px;margin-bottom:35px}body[data-page=resume] .resume-title h1{font-size:clamp(54px,12vw,72px)}body[data-page=resume] .resume-title .button{margin-top:25px}body[data-page=resume] .resume-layout aside{padding:25px}body[data-page=resume] .resume-layout aside ul{columns:1}body[data-page=resume] .resume-layout>div>.large-copy{font-size:20px}body[data-page=resume] .resume-section-heading{font-size:30px;margin-top:40px}body[data-page=resume] .experience-row h3{font-size:27px}body[data-page=resume] .experience-row .role-name{font-size:12px}body[data-page=resume] .experience-row p:not(.role-name):not(.experience-date){font-size:13px}}
+@media(min-width:801px) and (max-height:680px){body[data-page=resume] .resume-layout aside{position:static}}
+body[data-page=work] .case-intro.creativepro h1{font-size:clamp(34px,8.3vw,130px)}
+body[data-page=work] .case-intro.creativepro h1{font-size:clamp(34px,7.8vw,125px)}

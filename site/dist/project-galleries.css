@@ -1,0 +1,80 @@
+/* Project artwork sits on a true-black stage, including between phone mockups. */
+body[data-page="work"] .design-section {
+  --muted: #b9bdb5;
+  --line: #30332f;
+  background: #000;
+  color: #edf0e7;
+  box-shadow: 0 0 0 100vmax #000;
+  clip-path: inset(0 -100vmax);
+}
+
+body[data-page="work"] .design-section .section-title {
+  border-color: #30332f;
+}
+
+body[data-page="work"] .design-section .section-label,
+body[data-page="work"] .design-section .section-title > p,
+body[data-page="work"] .design-section .gallery-item figcaption,
+body[data-page="work"] .design-section .video-figure figcaption {
+  color: #b9bdb5;
+}
+
+body[data-page="work"] .design-section h2 {
+  color: #edf0e7;
+}
+
+body[data-page="work"] .design-section .case-gallery,
+body[data-page="work"] .design-section .gallery-item,
+body[data-page="work"] .design-section .zoom-image,
+body[data-page="work"] .design-section .gallery-item.phone .zoom-image,
+body[data-page="work"] .design-section .video-figure video {
+  background: #000;
+}
+
+body[data-page="work"] .design-section .gallery-item.phone img {
+  filter: none;
+}
+
+body[data-page="work"] .design-section .zoom-hint {
+  color: #172113;
+  background: #edf0e7;
+  box-shadow: 0 0 0 1px #000;
+}
+
+body[data-page="work"] .design-section .zoom-image:hover .zoom-hint,
+body[data-page="work"] .design-section .zoom-image:focus-visible .zoom-hint {
+  background: #c8e38d;
+  color: #172113;
+}
+
+body[data-page="work"] .design-section .zoom-image:focus-visible {
+  outline: 2px solid #c8e38d;
+  outline-offset: 4px;
+}
+
+/* The enlarged view retains the same black surround and readable controls. */
+body[data-page="work"] .lightbox,
+body[data-page="work"] .lightbox-body {
+  background: #000;
+  color: #edf0e7;
+}
+
+body[data-page="work"] .lightbox::backdrop {
+  background: #000;
+}
+
+body[data-page="work"] .lightbox-top,
+body[data-page="work"] .lightbox-bottom button {
+  border-color: #454b40;
+}
+
+body[data-page="work"] .lightbox-top a:hover,
+body[data-page="work"] .lightbox button:hover {
+  color: #c8e38d;
+}
+
+body[data-page="work"] .lightbox a:focus-visible,
+body[data-page="work"] .lightbox button:focus-visible {
+  outline: 2px solid #c8e38d;
+  outline-offset: 3px;
+}

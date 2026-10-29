@@ -1,0 +1,37 @@
+# Generated runtime caches and local dependency environments
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+node_modules/
+
+# Local hosting identity and snapshot packaging workspace
+/site/.openai/
+/.version-1-export/
+
+# Environment and credential files
+.env
+.env.*
+!.env.example
+!.env.sample
+.secrets/
+secrets.local.*
+credentials.local.*
+*.key
+*.p12
+*.pfx
+
+# Desktop metadata and temporary editor files
+.DS_Store
+Thumbs.db
+Desktop.ini
+desktop.ini
+~$*
+*.swp
+*.swo
+*.tmp
+
+# Keep original artwork, inputs, research, revisions, and review evidence tracked.

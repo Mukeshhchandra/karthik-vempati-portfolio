@@ -1,0 +1,423 @@
+[
+  {
+    "slug": "levis",
+    "name": "Levi’s",
+    "category": "Product & UX",
+    "filters": "ux",
+    "eyebrow": "Mobile commerce · Redesign concept",
+    "tagline": "A clearer path from discovery to denim.",
+    "cover": "levis-cover",
+    "color": "#bc1531",
+    "coverAlt": "Levi’s mobile app redesign with a red backdrop and shopping interface",
+    "summary": "A mobile app redesign concept that brings structure to product discovery, search, favorites, and checkout while retaining the character of an established brand.",
+    "format": "Mobile app",
+    "focus": "UX analysis, interaction design, visual design",
+    "overview": "Shopping should make it easy to find the right product and understand the next step. In the Levi’s India app, I identified opportunities to simplify navigation, improve product information, and make saved items easier to revisit. This concept follows the shopping journey from the home screen to the cart.",
+    "challenge": "Promotional banners dominated the home screen. Product categories required repeated navigation, while long descriptions pushed useful choices further down the product page. Favorites and cart controls also needed a clearer hierarchy.",
+    "decisions": [
+      [
+        "Give discovery a starting point",
+        "Bring search to the top, group promotions into a carousel, and create clear sections for featured categories and new arrivals."
+      ],
+      [
+        "Make the next choice easier",
+        "Use expandable category menus, recent searches, and suggestions. Organize favorites by product category so saved items are easier to scan."
+      ],
+      [
+        "Bring buying information together",
+        "Reorder product details around price, color, size, reviews, and shipping. Add a cart progression indicator and simplify promotional-code entry."
+      ]
+    ],
+    "gallery": [
+      [
+        "work-048-01",
+        "The original experience: promotional content and category navigation.",
+        "wide"
+      ],
+      [
+        "levis-home",
+        "A redesigned home screen balances promotions, categories, and new arrivals.",
+        "wide"
+      ],
+      [
+        "levis-search",
+        "Recent searches and suggestions make search easier to start.",
+        "wide"
+      ],
+      [
+        "levis-categories",
+        "Expandable categories bring deeper choices into the same view.",
+        "wide"
+      ],
+      [
+        "levis-favorites",
+        "Saved items are organized by product category.",
+        "wide"
+      ],
+      [
+        "levis-product",
+        "Product information, reviews, and purchase options follow a clearer hierarchy.",
+        "wide"
+      ],
+      [
+        "levis-cart",
+        "The cart connects item editing with visible checkout progression.",
+        "wide"
+      ]
+    ],
+    "reflection": "The result is a connected set of redesigned shopping screens with an explicit link between each usability issue and the proposed change. A useful next validation step would be to compare product-finding and cart-editing tasks with shoppers.",
+    "skills": [
+      "UX evaluation",
+      "Navigation",
+      "E-commerce",
+      "Visual hierarchy"
+    ]
+  },
+  {
+    "slug": "plant-stall",
+    "name": "Plant Stall",
+    "category": "Product & UX",
+    "filters": "ux",
+    "eyebrow": "Community marketplace · UX/UI case study",
+    "tagline": "Helping plants find their next home.",
+    "cover": "plant-cover",
+    "color": "#497d49",
+    "coverAlt": "Plant Stall mobile marketplace showing plants available nearby",
+    "summary": "A mobile marketplace for buying, selling, swapping, and giving away plants. Designed around the needs of new plant owners and experienced collectors.",
+    "format": "Mobile app",
+    "focus": "Research, user journeys, wireframes, UI design",
+    "overview": "Plant Stall explores a second-hand marketplace where a plant can be sold, exchanged, or shared. The project moves from research and personas through journey mapping, paper sketches, wireframes, and a nature-inspired interface.",
+    "challenge": "A standard shopping flow does not cover every plant transaction. Beginners may be working with a small budget, while collectors need specific varieties, confidence in a plant’s condition, and a way to propose a swap.",
+    "decisions": [
+      [
+        "Let people explore first",
+        "Skippable onboarding and guest browsing let visitors see nearby and popular plants before creating an account."
+      ],
+      [
+        "Treat swapping as a core journey",
+        "An offer includes plant photos, seller details, and contact options. People can select their own plants to propose an exchange."
+      ],
+      [
+        "Support different kinds of value",
+        "Listings can be for sale, swap, or free. Negotiable and unspecified prices accommodate plants that are harder to price."
+      ]
+    ],
+    "gallery": [
+      [
+        "work-049-02",
+        "Research questions and a persona exploring affordability, trust, and space.",
+        "wide"
+      ],
+      [
+        "plant-wireframes",
+        "Paper sketches and wireframes establish the structure before visual styling.",
+        "wide"
+      ],
+      [
+        "plant-style",
+        "A nature-inspired palette and Poppins typography connect the interface components.",
+        "wide"
+      ],
+      [
+        "plant-home",
+        "Discovery organizes nearby plants, categories, popular items, and saved offers.",
+        "wide"
+      ],
+      [
+        "plant-swap",
+        "The exchange journey connects plant details to a proposed swap.",
+        "wide"
+      ],
+      [
+        "plant-listings",
+        "Listing and profile screens support selling, swapping, and managing plants.",
+        "wide"
+      ]
+    ],
+    "reflection": "The defining design decision is to support exchange alongside purchase. The case study brings research artifacts and interface decisions together; further validation should focus on whether buyers and sellers understand the proposed swap and pricing options.",
+    "credit": "Plant illustrations and icons in the original project are credited to Icons8.",
+    "skills": [
+      "User research",
+      "Personas",
+      "Journey mapping",
+      "Marketplace UX"
+    ]
+  },
+  {
+    "slug": "photomax",
+    "name": "Photomax",
+    "category": "Product & visual design",
+    "filters": "ux brand",
+    "eyebrow": "Photography marketplace · Digital + identity",
+    "tagline": "A bigger picture for creative talent.",
+    "cover": "work-008",
+    "color": "#b93223",
+    "coverAlt": "Photomax photography marketplace presented on a desktop display",
+    "summary": "A connected visual identity and digital experience for photographers to present their work and respond to opportunities, extended into print and exhibition design.",
+    "format": "Web, mobile, print, environment",
+    "focus": "UI design, brand identity, visual communication",
+    "overview": "Photomax brings a photography marketplace and a bold visual system together. The work spans a desktop experience, mobile discovery and requests, promotional materials, and exhibition spaces.",
+    "challenge": "Photography needs room to speak for itself, but the surrounding experience still has to help people compare portfolios, understand a photographer’s specialty, and act on a request. The same identity also needs to translate beyond a screen.",
+    "decisions": [
+      [
+        "Frame the work",
+        "A near-black foundation, red framing elements, circular portrait treatments, and image-led layouts create a consistent identity around the photography."
+      ],
+      [
+        "Connect discovery to an opportunity",
+        "The mobile sequence moves from photographers and portfolios to event notifications, request details, acceptance, and confirmation."
+      ],
+      [
+        "Carry the identity into physical space",
+        "Brochures, posters, signage, and exhibition graphics reuse the same photographic composition and red-and-black system."
+      ]
+    ],
+    "video": "photomax-demonstration",
+    "poster": "work-007",
+    "videoCaption": "Desktop walkthrough: sign-in, discovery, photographer profiles, portfolios, and navigation.",
+    "gallery": [
+      [
+        "work-011",
+        "Discover photographers.",
+        "phone"
+      ],
+      [
+        "work-017",
+        "Explore a photographer’s profile.",
+        "phone"
+      ],
+      [
+        "work-014",
+        "Browse their photography.",
+        "phone"
+      ],
+      [
+        "work-013",
+        "Review an event notification.",
+        "phone"
+      ],
+      [
+        "work-015",
+        "Respond to a request.",
+        "phone"
+      ],
+      [
+        "work-012",
+        "Confirm an accepted opportunity.",
+        "phone"
+      ],
+      [
+        "work-001",
+        "The Hunt in the City exhibition brochure.",
+        "half"
+      ],
+      [
+        "work-002",
+        "Interior brochure spreads extend the digital identity.",
+        "half"
+      ],
+      [
+        "work-004",
+        "Exhibition graphics bring the framing system into a physical environment.",
+        "wide"
+      ],
+      [
+        "work-005",
+        "Photographer signage and gallery presentation.",
+        "wide"
+      ]
+    ],
+    "reflection": "This project shows how one design language can connect a service experience, promotional materials, and a physical exhibition. The walkthrough illustrates intended interactions; names, logos, and hiring statements inside the original mockups are sample interface content.",
+    "skills": [
+      "Brand systems",
+      "Marketplace UI",
+      "Print design",
+      "Environmental graphics"
+    ]
+  },
+  {
+    "slug": "creativepro",
+    "name": "CreativePro Week",
+    "category": "Brand & visual design",
+    "filters": "brand",
+    "eyebrow": "Conference identity · Web + print",
+    "tagline": "An energetic identity. An organized experience.",
+    "cover": "work-031",
+    "color": "#bc245b",
+    "coverAlt": "CreativePro Week poster and outdoor advertising with pink, orange and lime typography",
+    "summary": "A conference design exploration that pairs an expressive identity with clear access to speakers, session tracks, and event information across digital and printed formats.",
+    "format": "Web, mobile, poster, brochure",
+    "focus": "Visual identity, information hierarchy, UI design",
+    "overview": "CreativePro Week is presented as an online conference for creative professionals. The project includes a landing page, speaker profiles, a multitrack schedule, mobile layouts, and promotional print materials. The original artwork depicts the May 17–21, 2021 event.",
+    "challenge": "The event needs to communicate creative energy without making a dense program hard to understand. Promotional surfaces and informational screens serve different purposes, but still need to feel like one event.",
+    "decisions": [
+      [
+        "Build a recognizable visual vocabulary",
+        "Pink, orange, and lime, oversized vertical typography, and design-grid motifs establish an expressive conference identity."
+      ],
+      [
+        "Let information change the pace",
+        "Warmer, quieter backgrounds give speaker biographies and the schedule room to be read after the high-energy landing page."
+      ],
+      [
+        "Adapt the system across formats",
+        "The same visual language connects the mobile menu, event pages, brochure, poster, and outdoor placement."
+      ]
+    ],
+    "video": "creativepro-demonstration",
+    "poster": "work-030",
+    "videoCaption": "Conference walkthrough: landing page, About, speakers, biography overlays, and schedule.",
+    "gallery": [
+      [
+        "work-029",
+        "Mobile landing page.",
+        "phone"
+      ],
+      [
+        "work-027",
+        "The mobile navigation.",
+        "phone"
+      ],
+      [
+        "work-023",
+        "Speaker content on mobile.",
+        "phone"
+      ],
+      [
+        "work-028",
+        "Conference brochure with the identity and speaker program.",
+        "wide"
+      ],
+      [
+        "work-037",
+        "Printed applications of the conference identity.",
+        "wide"
+      ]
+    ],
+    "reflection": "The project demonstrates a visual system that can be expressive at first glance and more restrained where people need to read and compare information. The digital screens are design explorations rather than a live registration service.",
+    "skills": [
+      "Event identity",
+      "Typography",
+      "Information design",
+      "Cross-format design"
+    ]
+  },
+  {
+    "slug": "mellana",
+    "name": "Mellana Cafe",
+    "category": "Digital & brand design",
+    "filters": "ux brand",
+    "eyebrow": "Hospitality · Website + mobile redesign",
+    "tagline": "A warm welcome, from menu to order.",
+    "cover": "work-044",
+    "color": "#795730",
+    "coverAlt": "Mellana Cafe’s coffee menu shown on a laptop in a café",
+    "summary": "A café website and mobile experience that connects a warm visual identity with browsing the menu, choosing a drink, customizing an order, and reviewing the cart.",
+    "format": "Website and mobile interfaces",
+    "focus": "Brand expression, responsive UI, ordering flow",
+    "overview": "Mellana Cafe brings the atmosphere of a café into a digital experience. Cream backgrounds, dark coffee tones, warm accents, serif headlines, and drink photography create continuity between the brand story and the ordering interface.",
+    "challenge": "The website needs to introduce the café and its character while making practical tasks easy to find. Menu browsing, drink options, and the cart should feel connected on desktop and mobile.",
+    "decisions": [
+      [
+        "Make the menu visual",
+        "Group drinks by category and use photography to make the selection easy to scan."
+      ],
+      [
+        "Keep customization close to the product",
+        "Put size, add-ins, and quantity alongside the selected drink, then carry the choices into the cart."
+      ],
+      [
+        "Create a consistent welcome",
+        "Bring the same warm colors, typography, and imagery to the home page, café story, navigation, and ordering screens."
+      ]
+    ],
+    "gallery": [
+      [
+        "work-041",
+        "The visual identity across desktop, tablet, and mobile layouts.",
+        "wide"
+      ],
+      [
+        "work-042",
+        "A welcoming mobile home screen.",
+        "phone"
+      ],
+      [
+        "work-039",
+        "Browse coffee varieties.",
+        "phone"
+      ],
+      [
+        "work-047",
+        "Customize a selected drink.",
+        "phone"
+      ],
+      [
+        "work-040",
+        "Review the drink and its options in the cart.",
+        "phone"
+      ]
+    ],
+    "reflection": "The resulting designs connect brand expression with a practical ordering sequence. The work illustrates the intended experience; the artwork’s delivery and app-store marks do not represent a verified live ordering service.",
+    "skills": [
+      "Hospitality",
+      "Responsive UI",
+      "Visual identity",
+      "E-commerce flows"
+    ]
+  },
+  {
+    "slug": "prebook",
+    "name": "PREBOOK",
+    "category": "Product & UX",
+    "filters": "ux",
+    "eyebrow": "Reading & listening · iOS concept",
+    "tagline": "The next good book, within reach.",
+    "cover": "prebook-cover",
+    "color": "#394d9c",
+    "coverAlt": "PREBOOK ebook discovery and listening interface concept on a blue background",
+    "summary": "An iOS concept bringing book discovery, purchasing, reading, and listening into a single experience, with a calm visual system and familiar library patterns.",
+    "format": "iOS app concept",
+    "focus": "User flows, wireframes, UI system",
+    "overview": "PREBOOK explores the journey from discovering a book to accessing it in a personal library. Its design artifacts include research questions, competitive exploration, user flows, wireframes, and mobile interface studies.",
+    "challenge": "Readers need help navigating a broad catalog while balancing their interests, budget, and time. Discovery and purchase should connect clearly with the reading or listening experience that follows.",
+    "decisions": [
+      [
+        "Create multiple paths to a book",
+        "Categories, search, recommendations, and book details offer different ways to browse and choose."
+      ],
+      [
+        "Connect formats in one place",
+        "The book-detail concept brings reading and listening actions together, alongside synopsis, rating, and purchase information."
+      ],
+      [
+        "Design the supporting states",
+        "Wireframes account for authentication, payment, empty states, search, and library management, supported by a blue-and-lavender visual system."
+      ]
+    ],
+    "gallery": [
+      [
+        "work-052-00",
+        "The color, Satoshi typography, and icon system.",
+        "wide"
+      ],
+      [
+        "work-052-02",
+        "Purchase and browsing flow studies before the wireframes.",
+        "wide"
+      ],
+      [
+        "work-052-03",
+        "Wireframe explorations of the main mobile layouts.",
+        "wide"
+      ]
+    ],
+    "reflection": "This is an interface concept, with the strongest material in the discovery, library, and flow explorations. Further work should validate these journeys and refine the final content and reading/listening states before implementation.",
+    "skills": [
+      "iOS UI",
+      "User flows",
+      "Wireframes",
+      "Design systems"
+    ]
+  }
+]

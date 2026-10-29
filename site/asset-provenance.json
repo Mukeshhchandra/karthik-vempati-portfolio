@@ -1,0 +1,430 @@
+[
+  {
+    "name": "work-001",
+    "width": 1351,
+    "height": 687,
+    "source": "audit\\assets\\001.png"
+  },
+  {
+    "name": "work-002",
+    "width": 1351,
+    "height": 687,
+    "source": "audit\\assets\\002.png"
+  },
+  {
+    "name": "work-004",
+    "width": 1351,
+    "height": 687,
+    "source": "audit\\assets\\004.png"
+  },
+  {
+    "name": "work-005",
+    "width": 1351,
+    "height": 687,
+    "source": "audit\\assets\\005.png"
+  },
+  {
+    "name": "work-007",
+    "width": 1406,
+    "height": 872,
+    "source": "audit\\assets\\007.png"
+  },
+  {
+    "name": "work-008",
+    "width": 1346,
+    "height": 931,
+    "source": "audit\\assets\\008.png"
+  },
+  {
+    "name": "work-009",
+    "width": 1500,
+    "height": 283,
+    "source": "audit\\assets\\009.png"
+  },
+  {
+    "name": "work-010",
+    "width": 1351,
+    "height": 687,
+    "source": "audit\\assets\\010.png"
+  },
+  {
+    "name": "work-011",
+    "width": 383,
+    "height": 724,
+    "source": "audit\\assets\\011.png"
+  },
+  {
+    "name": "work-012",
+    "width": 383,
+    "height": 724,
+    "source": "audit\\assets\\012.png"
+  },
+  {
+    "name": "work-013",
+    "width": 383,
+    "height": 724,
+    "source": "audit\\assets\\013.png"
+  },
+  {
+    "name": "work-014",
+    "width": 383,
+    "height": 724,
+    "source": "audit\\assets\\014.png"
+  },
+  {
+    "name": "work-015",
+    "width": 383,
+    "height": 724,
+    "source": "audit\\assets\\015.png"
+  },
+  {
+    "name": "work-016",
+    "width": 383,
+    "height": 724,
+    "source": "audit\\assets\\016.png"
+  },
+  {
+    "name": "work-017",
+    "width": 383,
+    "height": 724,
+    "source": "audit\\assets\\017.png"
+  },
+  {
+    "name": "work-018",
+    "width": 383,
+    "height": 724,
+    "source": "audit\\assets\\018.png"
+  },
+  {
+    "name": "work-020",
+    "width": 1351,
+    "height": 687,
+    "source": "audit\\assets\\020.png"
+  },
+  {
+    "name": "work-021",
+    "width": 1351,
+    "height": 687,
+    "source": "audit\\assets\\021.png"
+  },
+  {
+    "name": "work-022",
+    "width": 383,
+    "height": 724,
+    "source": "audit\\assets\\022.png"
+  },
+  {
+    "name": "work-023",
+    "width": 383,
+    "height": 724,
+    "source": "audit\\assets\\023.png"
+  },
+  {
+    "name": "work-025",
+    "width": 383,
+    "height": 724,
+    "source": "audit\\assets\\025.png"
+  },
+  {
+    "name": "work-027",
+    "width": 383,
+    "height": 724,
+    "source": "audit\\assets\\027.png"
+  },
+  {
+    "name": "work-028",
+    "width": 1346,
+    "height": 917,
+    "source": "audit\\assets\\028.png"
+  },
+  {
+    "name": "work-029",
+    "width": 383,
+    "height": 724,
+    "source": "audit\\assets\\029.png"
+  },
+  {
+    "name": "work-030",
+    "width": 1381,
+    "height": 858,
+    "source": "audit\\assets\\030.png"
+  },
+  {
+    "name": "work-031",
+    "width": 1347,
+    "height": 685,
+    "source": "audit\\assets\\031.png"
+  },
+  {
+    "name": "work-032",
+    "width": 383,
+    "height": 724,
+    "source": "audit\\assets\\032.png"
+  },
+  {
+    "name": "work-033",
+    "width": 1347,
+    "height": 932,
+    "source": "audit\\assets\\033.png"
+  },
+  {
+    "name": "work-034",
+    "width": 383,
+    "height": 724,
+    "source": "audit\\assets\\034.png"
+  },
+  {
+    "name": "work-035",
+    "width": 383,
+    "height": 724,
+    "source": "audit\\assets\\035.png"
+  },
+  {
+    "name": "work-036",
+    "width": 383,
+    "height": 724,
+    "source": "audit\\assets\\036.png"
+  },
+  {
+    "name": "work-037",
+    "width": 1348,
+    "height": 898,
+    "source": "audit\\assets\\037.png"
+  },
+  {
+    "name": "work-039",
+    "width": 328,
+    "height": 662,
+    "source": "audit\\assets\\039.png"
+  },
+  {
+    "name": "work-040",
+    "width": 328,
+    "height": 662,
+    "source": "audit\\assets\\040.png"
+  },
+  {
+    "name": "work-041",
+    "width": 1456,
+    "height": 1029,
+    "source": "audit\\assets\\041.png"
+  },
+  {
+    "name": "work-042",
+    "width": 328,
+    "height": 662,
+    "source": "audit\\assets\\042.png"
+  },
+  {
+    "name": "work-044",
+    "width": 1347,
+    "height": 898,
+    "source": "audit\\assets\\044.png"
+  },
+  {
+    "name": "work-045",
+    "width": 328,
+    "height": 662,
+    "source": "audit\\assets\\045.png"
+  },
+  {
+    "name": "work-046",
+    "width": 328,
+    "height": 662,
+    "source": "audit\\assets\\046.png"
+  },
+  {
+    "name": "work-047",
+    "width": 328,
+    "height": 662,
+    "source": "audit\\assets\\047.png"
+  },
+  {
+    "name": "work-048-01",
+    "width": 1367,
+    "height": 1550,
+    "source": "audit\\assets\\048-01.jpg"
+  },
+  {
+    "name": "work-048-04",
+    "width": 1367,
+    "height": 1550,
+    "source": "audit\\assets\\048-04.jpg"
+  },
+  {
+    "name": "work-048-05",
+    "width": 1367,
+    "height": 1550,
+    "source": "audit\\assets\\048-05.jpg"
+  },
+  {
+    "name": "work-048-06",
+    "width": 1367,
+    "height": 1550,
+    "source": "audit\\assets\\048-06.jpg"
+  },
+  {
+    "name": "work-048-07",
+    "width": 1367,
+    "height": 1550,
+    "source": "audit\\assets\\048-07.jpg"
+  },
+  {
+    "name": "work-048-08",
+    "width": 1367,
+    "height": 1550,
+    "source": "audit\\assets\\048-08.jpg"
+  },
+  {
+    "name": "work-049-02",
+    "width": 1366,
+    "height": 1550,
+    "source": "audit\\assets\\049-02.jpg"
+  },
+  {
+    "name": "work-049-04",
+    "width": 1366,
+    "height": 1550,
+    "source": "audit\\assets\\049-04.jpg"
+  },
+  {
+    "name": "work-050-00",
+    "width": 1366,
+    "height": 1550,
+    "source": "audit\\assets\\050-00.jpg"
+  },
+  {
+    "name": "work-050-01",
+    "width": 1366,
+    "height": 1550,
+    "source": "audit\\assets\\050-01.jpg"
+  },
+  {
+    "name": "work-050-05",
+    "width": 1366,
+    "height": 1550,
+    "source": "audit\\assets\\050-05.jpg"
+  },
+  {
+    "name": "work-052-00",
+    "width": 1375,
+    "height": 1550,
+    "source": "audit\\assets\\052-00.jpg"
+  },
+  {
+    "name": "work-052-02",
+    "width": 1375,
+    "height": 1550,
+    "source": "audit\\assets\\052-02.jpg"
+  },
+  {
+    "name": "work-052-03",
+    "width": 1375,
+    "height": 1550,
+    "source": "audit\\assets\\052-03.jpg"
+  },
+  {
+    "name": "levis-cover",
+    "width": 1367,
+    "height": 584,
+    "source": "audit\\assets\\048.png"
+  },
+  {
+    "name": "plant-cover",
+    "width": 1366,
+    "height": 1060,
+    "source": "audit\\assets\\049.png"
+  },
+  {
+    "name": "prebook-cover",
+    "width": 1374,
+    "height": 850,
+    "source": "audit\\assets\\051.png"
+  },
+  {
+    "name": "plant-home",
+    "width": 1366,
+    "height": 1140,
+    "source": "audit\\assets\\050.png"
+  },
+  {
+    "name": "plant-swap",
+    "width": 1366,
+    "height": 1180,
+    "source": "audit\\assets\\050.png"
+  },
+  {
+    "name": "plant-wireframes",
+    "width": 1366,
+    "height": 2620,
+    "source": "audit\\assets\\050.png"
+  },
+  {
+    "name": "plant-style",
+    "width": 1366,
+    "height": 900,
+    "source": "audit\\assets\\050.png"
+  },
+  {
+    "name": "plant-listings",
+    "width": 1366,
+    "height": 730,
+    "source": "audit\\assets\\050.png"
+  },
+  {
+    "name": "levis-home",
+    "width": 1367,
+    "height": 840,
+    "source": "audit\\assets\\048.png"
+  },
+  {
+    "name": "levis-search",
+    "width": 1367,
+    "height": 730,
+    "source": "audit\\assets\\048.png"
+  },
+  {
+    "name": "levis-categories",
+    "width": 1367,
+    "height": 830,
+    "source": "audit\\assets\\048.png"
+  },
+  {
+    "name": "levis-favorites",
+    "width": 1367,
+    "height": 780,
+    "source": "audit\\assets\\048.png"
+  },
+  {
+    "name": "levis-product",
+    "width": 1367,
+    "height": 1230,
+    "source": "audit\\assets\\048.png"
+  },
+  {
+    "name": "levis-cart",
+    "width": 1367,
+    "height": 740,
+    "source": "audit\\assets\\048.png"
+  },
+  {
+    "name": "levis-final",
+    "width": 1367,
+    "height": 870,
+    "source": "audit\\assets\\048.png"
+  },
+  {
+    "name": "karthik",
+    "width": 1400,
+    "height": 1867,
+    "source": "inputs\\IMG_7938.preview.jpg"
+  },
+  {
+    "name": "karthik-footer-portrait",
+    "width": 866,
+    "height": 790,
+    "source": "inputs/karthik-footer-portrait.png",
+    "format": "png",
+    "note": "User-supplied screenshot copied without image edits; added to shared footer."
+  }
+]
