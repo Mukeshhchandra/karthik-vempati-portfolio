@@ -2,7 +2,15 @@
 
 **Version 1.0.0 · October 29, 2026**
 
-This snapshot preserves Karthik Vempati’s portfolio as Version 1. It is released publicly on GitHub at the owner's request. Uploading this repository does not deploy or publish the website; the portfolio remains a local review build.
+This repository preserves Karthik Vempati’s portfolio as Version 1, including every page, optimized image, animation, and downloadable résumé needed to run the site.
+
+## View the portfolio
+
+**[Open Karthik’s portfolio](https://mukeshhchandra.github.io/karthik-vempati-portfolio/)** — opens directly in a phone or desktop browser; no download is needed.
+
+Hosting setup is in progress. This link becomes available after the repository is public and its first GitHub Pages deployment completes.
+
+The source files below are for browsing or editing the project. GitHub’s file viewer does not run the website. Original artwork and the complete working archive are in the Version 1 release described below.
 
 The portfolio presents UI/UX design with graphic-design strengths through six case studies: Levi’s, Plant Stall, Photomax, CreativePro Week, Mellana Cafe, and PREBOOK. It includes About and résumé pages, original project media, a downloadable résumé, responsive layouts, image galleries, and optional motion effects.
 
@@ -28,6 +36,12 @@ python site/check_site.py
 The site is static HTML, CSS, and JavaScript. There is no package installation or external runtime service required to view it. `site/build.py` builds the HTML from the local Python modules and project data. Styles and browser scripts live directly in `site/dist/`.
 
 Asset regeneration is optional. `site/prepare_assets.py` uses Python Pillow and `ffmpeg` to reproduce optimized artwork from the included source assets; the prepared assets are already in `site/dist/assets/`.
+
+## Website publishing
+
+GitHub Pages is configured through `.github/workflows/deploy-pages.yml`. In repository **Settings → Pages**, select **GitHub Actions** as the source. The workflow validates the local build, prepares a copy for the `/karthik-vempati-portfolio/` URL, and publishes the portfolio. It runs on pushes to `main` and can also be started manually from Actions.
+
+The publication copy includes the portfolio and its assets. Internal review helpers and the full working archive are not served as website pages; the archive is available separately in Releases. The local preview command above continues to work unchanged.
 
 ## Full project archive
 

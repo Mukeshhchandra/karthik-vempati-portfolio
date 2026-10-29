@@ -11,6 +11,7 @@ node_modules/
 # Local hosting identity and snapshot packaging workspace
 /site/.openai/
 /.version-1-export/
+/_site/
 
 # Environment and credential files
 .env

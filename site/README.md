@@ -1,6 +1,6 @@
 # Karthik Vempati — Portfolio Version 1
 
-Version 1.0.0 is the first portfolio snapshot, released as public source on GitHub at the owner's request. The website remains a local review build; GitHub Pages and other website hosting are not enabled.
+Version 1.0.0 is the first portfolio snapshot. The user has authorized public source and website hosting on GitHub. The GitHub Pages workflow publishes a prepared copy of this directory’s `dist/` files.
 
 ## Open
 
@@ -28,7 +28,7 @@ Run `check_site.py` for structural and asset checks. With the server running, `c
 
 The original résumé and images are preserved. Downloadable résumé: `dist/assets/Karthik_Vempati_Resume.docx`. No measured ATS score is claimed.
 
-Local `.openai/` hosting state is excluded from the GitHub snapshot. Website deployment still requires a separate user request.
+Local `.openai/` hosting state is excluded from the GitHub snapshot. `prepare_pages.py` prepares and validates a GitHub Pages copy with the repository URL prefix while preserving the local build. See the root README for hosting setup and the website link.
 
 The previous draft’s generator, styles, and scripts are preserved under `revisions/2026-10-26/`. Current review screenshots and QA results are under `review/echo-redesign/`.
 
