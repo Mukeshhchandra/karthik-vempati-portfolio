@@ -8,7 +8,7 @@ This repository preserves Karthik Vempati’s portfolio as Version 1, including 
 
 **[Open Karthik’s portfolio](https://mukeshhchandra.github.io/karthik-vempati-portfolio/)** — opens directly in a phone or desktop browser; no download is needed.
 
-Hosting setup is in progress. This link becomes available after the repository is public and its first GitHub Pages deployment completes.
+The website is publicly available on GitHub Pages. No GitHub account or software installation is required to view it.
 
 The source files below are for browsing or editing the project. GitHub’s file viewer does not run the website. Original artwork and the complete working archive are in the Version 1 release described below.
 
