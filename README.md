@@ -14,16 +14,6 @@ The source files below are for browsing or editing the project. GitHub’s file 
 
 The portfolio presents UI/UX design with graphic-design strengths through six case studies: Levi’s, Plant Stall, Photomax, CreativePro Week, Mellana Cafe, and PREBOOK. It includes About and résumé pages, original project media, a downloadable résumé, responsive layouts, image galleries, and optional motion effects.
 
-## Run locally
-
-From the repository root, with Python 3 installed:
-
-```sh
-python -m http.server 4173 --bind 127.0.0.1 --directory site/dist
-```
-
-Open [the local portfolio](http://127.0.0.1:4173/). Keep the terminal running while reviewing. The server is bound to this computer only. The generated site is already included in `site/dist/`, so rebuilding is not required just to view it.
-
 ## Rebuild and check
 
 After changing page structure or project content:
@@ -41,7 +31,7 @@ Asset regeneration is optional. `site/prepare_assets.py` uses Python Pillow and 
 
 GitHub Pages is configured through `.github/workflows/deploy-pages.yml`. In repository **Settings → Pages**, select **GitHub Actions** as the source. The workflow validates the local build, prepares a copy for the `/karthik-vempati-portfolio/` URL, and publishes the portfolio. It runs on pushes to `main` and can also be started manually from Actions.
 
-The publication copy includes the portfolio and its assets. Internal review helpers and the full working archive are not served as website pages; the archive is available separately in Releases. The local preview command above continues to work unchanged.
+The publication copy includes the portfolio and its assets. Internal review helpers and the full working archive are not served as website pages; the archive is available separately in Releases.
 
 ## Full project archive
 
@@ -51,7 +41,7 @@ The runnable portfolio source and optimized assets are tracked in this repositor
 
 | Location | Contents |
 | --- | --- |
-| `site/` | Page generators, project data, asset provenance, checks, and local preview instructions. |
+| `site/` | Page generators, project data, asset provenance, and checks. |
 | `site/dist/` | Complete generated portfolio, styles, scripts, optimized media, and downloadable résumé. |
 | `portfolio-assets/` | Original project artwork and media collected for this portfolio. |
 | `inputs/` | User-supplied portraits, the original résumé, and other source inputs. |
@@ -60,7 +50,7 @@ The runnable portfolio source and optimized assets are tracked in this repositor
 | `site/revisions/` | Earlier local portfolio iterations retained for reference. |
 | `site/review/` | Visual review evidence, structural check reports, and document verification records. |
 
-`site/dist/_qa-responsive.html` is a local testing helper, not part of the intended public portfolio. Some research and utility scripts retain paths specific to the original Windows workspace; the manual preview command above is portable.
+`site/dist/_qa-responsive.html` is a local testing helper, not part of the intended public portfolio. Some research and utility scripts retain paths specific to the original Windows workspace.
 
 ## Version 1 notes
 
