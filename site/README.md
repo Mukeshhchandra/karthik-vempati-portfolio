@@ -4,7 +4,7 @@ Version 1.0.0 is the first portfolio snapshot. The user has authorized public so
 
 ## Open
 
-Run `Start-Preview.ps1` from this directory and open http://127.0.0.1:4173/. Keep that terminal running while reviewing. The server binds only to this computer.
+Open the [public portfolio](https://mukeshhchandra.github.io/karthik-vempati-portfolio/) on your phone or computer.
 
 ## Edit
 
